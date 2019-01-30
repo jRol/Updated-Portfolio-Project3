@@ -1,9 +1,9 @@
-# Updated Portfolio - All-The-News
+# Updated Portfolio - Project 3
 
-Problem: Must update portfolio page to include All-The-News app.
+Problem: Must update portfolio page to include Project 3 - Imbibe app.
 
-[Link to Updated Portfolio - All-The-News](https://jrol.github.io/Updated-Portfolio-All-The-News/)
+[Link to Updated Portfolio - Project 3](https://jrol.github.io/Updated-Portfolio-Project3/portfolio.html)
 
-[Link to All-The-News Heroku App](https://all-the-news-scrape.herokuapp.com/)
+[Link to Project 3 Heroku App](https://mighty-shelf-13025.herokuapp.com/)
 
-[Link to All-The-News GitHub Repo](https://github.com/jRol/All-The-News)
+[Link to Project 3 Github Repo](https://github.com/CodeYoga80s/project-3-heroku-deploy)
